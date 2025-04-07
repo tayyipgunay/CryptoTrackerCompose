@@ -1,4 +1,3 @@
-echo "# 💰 Crypto Ranking App
 
 Kripto paraların piyasa değerine göre sıralandığı, modern ve şık bir mobil uygulama.
 
